@@ -1,0 +1,5 @@
+.backgrounds {
+    background: url(images/bg-pattern-bottom.svg) no-repeat 650px 335px,
+    url(images/bg-pattern-top.svg) no-repeat -350px -520px;
+   
+}
