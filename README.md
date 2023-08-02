@@ -1,4 +1,4 @@
-# Desafio FrontEnd-Mentor: Cartão de Perfil com HTML e CSS
+# Desafio FrontEnd Mentor: Cartão de Perfil com HTML e CSS
 
 Este é um repositório criado para o desafio do site [FrontEnd Mentor](https://www.frontendmentor.io/), cuja finalidade era desenvolver um cartão de perfil utilizando HTML e CSS, destacando informações como foto, idade, localidade, quantidade de seguidores, quantidade de curtidas e total de fotos.
 
